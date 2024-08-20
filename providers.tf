@@ -1,5 +1,5 @@
 provider "google" {
   project = "th-ptranlab-lab-6134d2"
-  region  = "northamerica-northeast1"
-  zone    = "northamerica-northeast1-a"
+  region  = "us-west1"
+  zone    = "us-west1-a"
 }
